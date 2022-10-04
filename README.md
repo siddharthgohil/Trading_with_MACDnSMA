@@ -1,6 +1,6 @@
 From testing we found that simply using indicators was not enough to find tops and bottom and even mean reversion often did not work due to irrational investors and market risk
 
-Hence, instead of longing at a potential lows, we wanted to test the returns of longing only in the middle of a new uptrend. 
+Hence, instead of longing at a potential lows, we wanted to test the returns of longing only in the middle of a new uptrend, vice versa
 
 Our strategy is as such:
 
